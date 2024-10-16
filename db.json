@@ -1,0 +1,284 @@
+{  
+    "data": [  
+        {  
+            "id": 1,  
+            "title": "Modern Apartment in Downtown",  
+            "price": 1200,  
+            "listingType": "rent",  
+            "imageUrl": "/images/1.jpg"  
+        },  
+        {  
+            "id": 2,  
+            "title": "Luxury Villa with Private Pool",  
+            "price": 1200000,  
+            "listingType": "cell",  
+            "imageUrl": "/images/2.jpg"  
+        },  
+        {  
+            "id": 3,  
+            "title": "Spacious Loft with City View",  
+            "price": 1800,  
+            "listingType": "cell",  
+            "imageUrl": "/images/3.jpg"  
+        },  
+        {  
+            "id": 4,  
+            "title": "Cozy Cottage Near the Beach",  
+            "price": 250000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/4.jpg"  
+        },  
+        {  
+            "id": 5,  
+            "title": "Charming Bungalow in Suburbs",  
+            "price": 320000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/5.jpg"  
+        },  
+        {  
+            "id": 6,  
+            "title": "City Studio with Balcony",  
+            "price": 1500,  
+            "listingType": "rent",  
+            "imageUrl": "/images/6.jpg"  
+        },  
+        {  
+            "id": 7,  
+            "title": "Elegant Mansion with Garden",  
+            "price": 5000000,  
+            "listingType": "cell",  
+            "imageUrl": "/images/7.jpg"  
+        },  
+        {  
+            "id": 8,  
+            "title": "Rustic Cabin in the Woods",  
+            "price": 75000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/4.jpg"  
+        },  
+        {  
+            "id": 9,  
+            "title": "Modern Flat in Trendy Area",  
+            "price": 2400,  
+            "listingType": "rent",  
+            "imageUrl": "/images/2.jpg"  
+        },  
+        {  
+            "id": 10,  
+            "title": "Seaside Villa with Ocean View",  
+            "price": 850000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/3.jpg"  
+        },  
+        {  
+            "id": 11,  
+            "title": "Sunny Apartment with Open Kitchen",  
+            "price": 1900,  
+            "listingType": "rent",  
+            "imageUrl": "/images/1.jpg"  
+        },  
+        {  
+            "id": 12,  
+            "title": "Enchanting Farmhouse",  
+            "price": 400000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/5.jpg"  
+        },  
+        {  
+            "id": 13,  
+            "title": "Modern Loft for Young Professionals",  
+            "price": 2300,  
+            "listingType": "rent",  
+            "imageUrl": "/images/3.jpg"  
+        },  
+        {  
+            "id": 14,  
+            "title": "Luxury Condo in City Center",  
+            "price": 3000000,  
+            "listingType": "cell",  
+            "imageUrl": "/images/2.jpg"  
+        },  
+        {  
+            "id": 15,  
+            "title": "Beachfront Property",  
+            "price": 600000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/4.jpg"  
+        },  
+        {  
+            "id": 16,  
+            "title": "Classic Victorian Home",  
+            "price": 150000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/5.jpg"  
+        },  
+        {  
+            "id": 17,  
+            "title": "Newly Built Apartment in the City",  
+            "price": 2200,  
+            "listingType": "rent",  
+            "imageUrl": "/images/1.jpg"  
+        },  
+        {  
+            "id": 18,  
+            "title": "Downtown Shop Space",  
+            "price": 3500,  
+            "listingType": "cell",  
+            "imageUrl": "/images/3.jpg"  
+        },  
+        {  
+            "id": 19,  
+            "title": "Stylish Studio with Modern Decor",  
+            "price": 1600,  
+            "listingType": "rent",  
+            "imageUrl": "/images/2.jpg"  
+        },  
+        {  
+            "id": 20,  
+            "title": "Unique Artist's Loft",  
+            "price": 450000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/6.jpg"  
+        },  
+        {  
+            "id": 21,  
+            "title": "Chic Apartment Near Park",  
+            "price": 2100,  
+            "listingType": "rent",  
+            "imageUrl": "/images/4.jpg"  
+        },  
+        {  
+            "id": 22,  
+            "title": "Spacious Family Home",  
+            "price": 320000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/5.jpg"  
+        },  
+        {  
+            "id": 23,  
+            "title": "Penthouse with Rooftop Terrace",  
+            "price": 950000,  
+            "listingType": "cell",  
+            "imageUrl": "/images/2.jpg"  
+        },  
+        {  
+            "id": 24,  
+            "title": "Modern Studio in Art District",  
+            "price": 2000,  
+            "listingType": "rent",  
+            "imageUrl": "/images/6.jpg"  
+        },  
+        {  
+            "id": 25,  
+            "title": "Beautiful Home with Pool",  
+            "price": 750000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/1.jpg"  
+        },  
+        {  
+            "id": 26,  
+            "title": "Contemporary House with Large Yard",  
+            "price": 400000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/5.jpg"  
+        },  
+        {  
+            "id": 27,  
+            "title": "Stylish Loft Apartment",  
+            "price": 2800,  
+            "listingType": "rent",  
+            "imageUrl": "/images/2.jpg"  
+        },  
+        {  
+            "id": 28,  
+            "title": "Charming Apartment with Sea Views",  
+            "price": 2300,  
+            "listingType": "rent",  
+            "imageUrl": "/images/3.jpg"  
+        },  
+        {  
+            "id": 29,  
+            "title": "Historic House in Quaint Neighborhood",  
+            "price": 300000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/4.jpg"  
+        },  
+        {  
+            "id": 30,  
+            "title": "Luxury Loft with Amenities",  
+            "price": 5000,  
+            "listingType": "cell",  
+            "imageUrl": "/images/5.jpg"  
+        },  
+        {  
+            "id": 31,  
+            "title": "Spacious Rental with Great Amenities",  
+            "price": 2200,  
+            "listingType": "rent",  
+            "imageUrl": "/images/2.jpg"  
+        },  
+        {  
+            "id": 32,  
+            "title": "Eco-Friendly Home",  
+            "price": 450000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/6.jpg"  
+        },  
+        {  
+            "id": 33,  
+            "title": "Sleek Studio with Urban Vibe",  
+            "price": 2100,  
+            "listingType": "rent",  
+            "imageUrl": "/images/1.jpg"  
+        },  
+        {  
+            "id": 34,  
+            "title": "Abandoned Barn with Land Potential",  
+            "price": 80000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/5.jpg"  
+        },  
+        {  
+            "id": 35,  
+            "title": "Furnished Apartment with Utilities",  
+            "price": 1900,  
+            "listingType": "rent",  
+            "imageUrl": "/images/2.jpg"  
+        },  
+        {  
+            "id": 36,  
+            "title": "Mountain Retreat Cabin",  
+            "price": 300000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/4.jpg"  
+        },  
+        {  
+            "id": 37,  
+            "title": "Luxury Apartment with Concierge",  
+            "price": 3500,  
+            "listingType": "rent",  
+            "imageUrl": "/images/3.jpg"  
+        },  
+        {  
+            "id": 38,  
+            "title": "Affordable Starter Home",  
+            "price": 150000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/5.jpg"  
+        },  
+        {  
+            "id": 39,  
+            "title": "Spacious Modern Home",  
+            "price": 750000,  
+            "listingType": "buy",  
+            "imageUrl": "/images/1.jpg"  
+        },  
+        {  
+            "id": 40,  
+            "title": "Charming Flat in Quiet Street",  
+            "price": 2200,  
+            "listingType": "rent",  
+            "imageUrl": "/images/6.jpg"  
+        }  
+    ]  
+}
